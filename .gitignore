@@ -1,0 +1,7 @@
+[Dd]ebug/
+[Rr]elease/
+[Oo]bj/
+[Bb]in/
+*.user
+.vs/
+.DS_Store
